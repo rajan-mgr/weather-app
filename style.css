@@ -9,7 +9,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: url("/img/clouds.jpg") no-repeat center/cover;
+  background: url("https://github.com/rajan-mgr/Weather-App/blob/main/img/clouds.jpg") no-repeat center/cover;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -168,3 +168,4 @@ body {
 .forecast-day .forecast-temp {
   font-weight: bold;
 }
+
